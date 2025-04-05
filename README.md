@@ -24,7 +24,7 @@ Upload and manage venue pictures
 
 View all bookings
 
-💻 Tech Stack
+💻 Tech Stack used:
 
 Frontend: HTML, CSS, JavaScript
 
